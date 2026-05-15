@@ -1,0 +1,48 @@
+# Virtual environment
+venvM/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+.eggs/
+
+# Cython build artifacts
+build/
+*.c          # generated from .pyx — keep .pyx, ignore compiled .c
+src/_feature_fast.c
+src/_esm2_bench_fast.c
+
+# Outputs (large, run-specific — regenerate with training scripts)
+outputs/
+
+# Pre-computed embeddings (large binary files)
+embeddings.pt
+*.pt
+cache/
+
+# Data files (add manually later)
+data/
+cores_07/
+benchmark_dataset/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IUPred3 (separate licence — must be obtained independently)
+scripts/iupred3/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+*.swp
+*.swo

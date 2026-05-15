@@ -1,0 +1,104 @@
+{
+  "training": {
+    "positive_json": "train_test_dataset/Chloe_clustered_cores.json",
+    "negative_json": "train_test_dataset/Chloe_disordered_regions_clustered.json",
+    "positive_fasta": "train_test_dataset/Chloe_clustered_cores.fasta",
+    "negative_fasta": "train_test_dataset/Chloe_disordered_regions_clustered.fasta",
+    "iupred_script": "scripts/iupred3/iupred3.py",
+    "iupred_input_type": "long",
+    "_iupred_input_type_options": "long | short",
+    "n_folds": 5,
+    "_n_folds_options": "integer >= 2 (number of stratified k-fold splits). All algorithms and hyperparameter combos share the same folds for a fair comparison. The final model is retrained on the full dataset after evaluation.",
+    "random_seed": 42,
+    "output_dir": "outputs/training",
+    "algorithms": [
+      {
+        "type": "adaboost",
+        "params": {
+          "n_estimators": 100,
+          "algorithm": "SAMME",
+          "learning_rate": 1.0
+        },
+        "n_combos": 100
+      },
+      {
+        "type": "random_forest",
+        "params": {
+          "n_estimators": 100,
+          "max_features": "sqrt",
+          "max_depth": null,
+          "min_samples_split": 2,
+          "min_samples_leaf": 1,
+          "bootstrap": true
+        },
+        "n_combos": 100
+      },
+      {
+        "type": "extra_trees",
+        "params": {
+          "n_estimators": 100,
+          "max_features": "sqrt",
+          "max_depth": null,
+          "min_samples_split": 2,
+          "min_samples_leaf": 1,
+          "bootstrap": false
+        },
+        "n_combos": 100
+      },
+      {
+        "type": "gradient_boosting",
+        "params": {
+          "n_estimators": 100,
+          "learning_rate": 0.1,
+          "max_depth": 3,
+          "min_samples_split": 2,
+          "min_samples_leaf": 1,
+          "max_features": null,
+          "min_impurity_decrease": 0.0
+        },
+        "n_combos": 100
+      },
+      {
+        "type": "svm",
+        "params": {
+          "C": 1.0,
+          "kernel": "rbf"
+        },
+        "n_combos": 100
+      },
+      {
+        "type": "decision_tree",
+        "params": {
+          "max_depth": null,
+          "min_samples_split": 2,
+          "min_samples_leaf": 1,
+          "max_features": null,
+          "criterion": "gini",
+          "splitter": "best"
+        },
+        "n_combos": 100
+      }
+    ]
+  },
+  "feature_files": [
+    "builtin"
+  ],
+  "_feature_files_note": "List of feature specs. Use the special keyword 'builtin' for the original 540-dim features. Use a file path for a lookup_table JSON (e.g. data/aaindex_features.json). Override via --features on the CLI. Examples: --features builtin | --features data/aaindex_features.json | --features builtin data/aaindex_features.json",
+  "benchmark": {
+    "input_json": "benchmark_dataset/benchmark_set_test1.json",
+    "window_size": 18,
+    "threshold": 0.5,
+    "aggregation_method": "max",
+    "_aggregation_method_options": "max (label=1 if any window score >= threshold) | mean (avg score >= threshold) | vote (fraction of windows >= threshold)",
+    "vote_fraction": 0.5,
+    "classifier_positive_label": "AMYLOID",
+    "_classifier_positive_label_note": "Label value (LABEL field in input JSON) that counts as the positive class when --classifier is used. Case-insensitive.",
+    "output_dir": "outputs/benchmark",
+    "adaptive": {
+      "default_window": 18,
+      "min_window": 11,
+      "max_window": 23,
+      "confidence_margin": 0.15
+    }
+  }
+}
