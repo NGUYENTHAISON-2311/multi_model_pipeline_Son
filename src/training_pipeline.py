@@ -33,7 +33,7 @@ from sklearn.metrics import accuracy_score, f1_score, matthews_corrcoef, precisi
 from sklearn.model_selection import StratifiedKFold
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
-from tqdm import tqdm
+from tqdm.auto import tqdm
 
 from .configuration import ensure_directory, resolve_pipeline_path
 from .ensemble import EnsembleClassifier
