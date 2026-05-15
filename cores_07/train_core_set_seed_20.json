@@ -1,0 +1,642 @@
+[
+  {
+    "core_id": "5w3n_9_ABCDEFGHI_C_1_stacked_E_P35637",
+    "sequence": "GYGQSSYSSYGQSQNTGYGTQST"
+  },
+  {
+    "core_id": "5w3n_9_ABCDEFGHI_C_3_stacked_E_P35637",
+    "sequence": "QGYGSTGGYGSSQSSQSSYGQ"
+  },
+  {
+    "core_id": "6eka_8_ABCDE_C_3_stacked_E_B2B1E9",
+    "sequence": "GVDQSFGSLTTTKSSRAFQGQMD"
+  },
+  {
+    "core_id": "6ic3_0_ABCDEFGH_D_0_stacked_E",
+    "sequence": "NDQRPSGVPDRFSGSKSGTSASL"
+  },
+  {
+    "core_id": "6lni_0_ABCDE_B_0_stacked_E_P04156",
+    "sequence": "TTTKGENFTETDV"
+  },
+  {
+    "core_id": "6n3b_0_ACEGI_C_0_stacked_E_Q13148",
+    "sequence": "INPAMMAAAQAALQSSWGMM"
+  },
+  {
+    "core_id": "6r4r_0_ACEG_C_0_stacked_E_P23727",
+    "sequence": "ILTVNKGSLVALGFSDGQEAKP"
+  },
+  {
+    "core_id": "6r4r_0_ACEG_C_1_stacked_E_P23727",
+    "sequence": "DGQEAKPEEIGWLNGYNETTGER"
+  },
+  {
+    "core_id": "6tub_6_ABCDEF_D_1_stacked_E_P01189",
+    "sequence": "FMTSEKSQTPLVTLFKNAIIKNA"
+  },
+  {
+    "core_id": "6z1o_0_ABCDEF_D_0_stacked_E_P01714",
+    "sequence": "TITGAQAEDEADYYCNSRDSSAN"
+  },
+  {
+    "core_id": "7e0f_0_ABC_A_0_stacked_E_P37840",
+    "sequence": "VATVAEKTKEQVTNV"
+  },
+  {
+    "core_id": "7kwz_0_ABCDE_A_2_stacked_E_Q13148",
+    "sequence": "NQNQGNMQREPNQAFGSGNNSY"
+  },
+  {
+    "core_id": "7kwz_0_ABCDE_A_3_stacked_E_Q13148",
+    "sequence": "SYSGSNSGAAIGWGSASNAGSGS"
+  },
+  {
+    "core_id": "7kwz_0_ABCDE_A_4_stacked_E_Q13148",
+    "sequence": "GSASNAGSGSGFNGGFGSSM"
+  },
+  {
+    "core_id": "7l7h_0_ABCD_C_0_stacked_E_P37840",
+    "sequence": "GGAVVTGVTAVAQ"
+  },
+  {
+    "core_id": "7lc9_0_ABCDEG_C_1_stacked_E_P37840",
+    "sequence": "KTVEGAGSIAA"
+  },
+  {
+    "core_id": "7lna_0_ABC_A_2_stacked_E_P04273",
+    "sequence": "IMERVVEQMCTTQYQKESQAYY"
+  },
+  {
+    "core_id": "7m62_0_ABCDEFGHIJ_A_0_stacked_E_P10997",
+    "sequence": "GAILSSTNVGSNTY"
+  },
+  {
+    "core_id": "7nsl_0_ABCDEFG_D_0_stacked_E",
+    "sequence": "AAPGQNVTISCSGSSSNIGNNYV"
+  },
+  {
+    "core_id": "7nsl_0_ABCDEFG_D_1_stacked_E",
+    "sequence": "SNIGNNYVSWYQQLPGTA"
+  },
+  {
+    "core_id": "7nsl_0_ABCDEFG_D_2_stacked_E",
+    "sequence": "LGITGLQTADEADYYCGTWESS"
+  },
+  {
+    "core_id": "7ovt_0_BDFHJL_D_1_stacked_E_P05367",
+    "sequence": "GAGDMWRAYTDMKEAGWKDGDK"
+  },
+  {
+    "core_id": "7p6c_0_ABCDE_A_1_stacked_E_P10636",
+    "sequence": "NITHVPGGGNKKIETHK"
+  },
+  {
+    "core_id": "7q3u_0_ABCDE_C_0_stacked_E_Q13148",
+    "sequence": "NSRGGGAGLGNNQG"
+  },
+  {
+    "core_id": "7q3u_0_ABCDE_C_1_stacked_E_Q13148",
+    "sequence": "GNNQGSNMGGG"
+  },
+  {
+    "core_id": "7q3u_0_ABCDE_C_2_stacked_E_Q13148",
+    "sequence": "MGGGMNFGAFSINP"
+  },
+  {
+    "core_id": "7q66_0_ACEGIKMOQSU_G_0_stacked_E_P52948",
+    "sequence": "TGTANTLFGTAST"
+  },
+  {
+    "core_id": "7q66_0_BDFHJLNPRTV_P_0_stacked_E_P52948",
+    "sequence": "TGTANTLFGTASTGTSLFSS"
+  },
+  {
+    "core_id": "7q67_0_BDFHJ_D_0_stacked_E_P52948",
+    "sequence": "FGTASTGTSLFSSQNN"
+  },
+  {
+    "core_id": "7qwg_0_ABC_B_1_stacked_E_Q9NUM4",
+    "sequence": "TVIGKARLNNITIIG"
+  },
+  {
+    "core_id": "7umq_0_ACEGI_E_1_stacked_E_P04156",
+    "sequence": "AAAAGAVVGGLGGYVLGSAMSRP"
+  },
+  {
+    "core_id": "7vzf_0_ABC_C_1_stacked_E_P00441",
+    "sequence": "LVVHEKADDLGKGGNEESTKT"
+  },
+  {
+    "core_id": "7zh7_0_ABCDE_A_0_stacked_E_Q1T770",
+    "sequence": "GADKYFHARGNYDAAQR"
+  },
+  {
+    "core_id": "7zir_0_ABCDE_C_0_stacked_E_O14979",
+    "sequence": "QGFNNYYDQGYGNY"
+  },
+  {
+    "core_id": "7zir_0_ABCDE_C_1_stacked_E_O14979",
+    "sequence": "SGYGGYDYTGYNYG"
+  },
+  {
+    "core_id": "7zj2_0_ACEGIK_G_1_stacked_E_P09651",
+    "sequence": "GNFGGRSSGPYGGGG"
+  },
+  {
+    "core_id": "7zky_0_BDFHJL_J_1_stacked_E_P0DJI8",
+    "sequence": "REANYIGSDKYFHARGNYDAAKR"
+  },
+  {
+    "core_id": "8cgh_0_ABCDU_U_0_stacked_E_Q13148",
+    "sequence": "QGGFGNSRGGGAGLGNNQ"
+  },
+  {
+    "core_id": "8cgh_0_ABCDU_U_1_stacked_E_Q13148",
+    "sequence": "AGLGNNQGSNMGGGMNFGA"
+  },
+  {
+    "core_id": "8cpe_0_ABCDE_C_1_stacked_E",
+    "sequence": "QSYDGNNHWVFG"
+  },
+  {
+    "core_id": "8dja_0_ABCDEFGHIJ_D_0_stacked_E_P04925",
+    "sequence": "GAAAAGAVVGGL"
+  },
+  {
+    "core_id": "8ec7_0_ADGJM_D_0_stacked_E_P22626",
+    "sequence": "YGSGNYNVFGNYNQQPSNYGPM"
+  },
+  {
+    "core_id": "8efu_0_ABCDE_A_1_stacked_E_P04925",
+    "sequence": "RPMIHFGNDWEDRYYRE"
+  },
+  {
+    "core_id": "8fpt_3_ACEGI_I_0_stacked_E_P37840",
+    "sequence": "GKTKEGVLYVG"
+  },
+  {
+    "core_id": "8g54_9_ABCDE_C_0_stacked_E_P10636",
+    "sequence": "VQIINKKLDLSNVQSKCG"
+  },
+  {
+    "core_id": "8g58_8_ACEGI_E_0_stacked_E_P10636",
+    "sequence": "DLSKVTSKCGSLGNIHHK"
+  },
+  {
+    "core_id": "8gf7_0_ABC_A_1_stacked_E_P37840",
+    "sequence": "AKEGVVAAAEKTKQGVAEAAGKT"
+  },
+  {
+    "core_id": "8ihv_0_ABC_B_0_stacked_E_P00441",
+    "sequence": "TADKDGVADVSIE"
+  },
+  {
+    "core_id": "8kf3_0_DEF_E_0_stacked_E_P05067",
+    "sequence": "LVFFAEDVGSNKGAIIG"
+  },
+  {
+    "core_id": "8ol3_0_ACEGI_A_1_stacked_E_P05067",
+    "sequence": "GAIIGLMVGGVVIA"
+  },
+  {
+    "core_id": "8olg_0_ABCDE_A_0_stacked_E_P05067",
+    "sequence": "YEVHHQKLVFFAQNVG"
+  },
+  {
+    "core_id": "8oq5_0_ACEGIM_E_1_stacked_E_P09813",
+    "sequence": "QAKAYFEKTHEQLTPLVR"
+  },
+  {
+    "core_id": "8oq5_0_ACEGIM_E_2_stacked_E_P09813",
+    "sequence": "QLTPLVRSAGTSLVNFFSSLMNL"
+  },
+  {
+    "core_id": "8orf_0_ABC_C_2_stacked_E_P10636",
+    "sequence": "SLDNITHVPGGGNKKIETH"
+  },
+  {
+    "core_id": "8owk_0_ABCDE_D_1_stacked_E_P05067",
+    "sequence": "AEDVGSNKGAIIGLMVGGV"
+  },
+  {
+    "core_id": "8pk4_0_ACEGI_C_0_stacked_E_P37840",
+    "sequence": "KGLSKAKEGVVAAAE"
+  },
+  {
+    "core_id": "8q92_0_ABC_A_1_stacked_E_P10636",
+    "sequence": "GSVQIVYKPVDLSKVTSKCGSL"
+  },
+  {
+    "core_id": "8qn7_0_A_A_0_stacked_E_P05067",
+    "sequence": "AEFRHDSGYEVHHQKLVFF"
+  },
+  {
+    "core_id": "8qut_0_ACEGI_G_0_stacked_E_P61626",
+    "sequence": "KTPGAVNACHLSCSALLQDNIAD"
+  },
+  {
+    "core_id": "8qvp_0_HJLNP_H_0_stacked_E_P10997",
+    "sequence": "LVHSSNNFGAILSPTNVGSN"
+  },
+  {
+    "core_id": "8r4a_0_ABCDEFGHI_E_0_stacked_E_P61626",
+    "sequence": "RATNYNAGDRSTDYG"
+  },
+  {
+    "core_id": "8r4a_0_ABCDEFGHI_E_2_stacked_E_P61626",
+    "sequence": "YWCNDGKTPGAVNACHLSCSAL"
+  },
+  {
+    "core_id": "8r4a_0_ABCDEFGHI_E_3_stacked_E_P61626",
+    "sequence": "LSCSALLQGNIADAV"
+  },
+  {
+    "core_id": "8r4a_0_ABCDEFGHI_E_4_stacked_E_P61626",
+    "sequence": "DAVACAKRVVR"
+  },
+  {
+    "core_id": "8rvt_3_ABCDEFGHIJ_F_0_stacked_E + 8rvt_7_ABCDEFGHIJ_H_0_stacked_E_P01308",
+    "sequence": "VNQHLCGSHLVEAL"
+  },
+  {
+    "core_id": "8rvt_6_ABCDEFGHIJ_G_0_stacked_E + 8rvt_9_ABCDEFGHIJ_A_0_stacked_E_P01308",
+    "sequence": "IVEQCCTSICSLYQ"
+  },
+  {
+    "core_id": "8sei_0_ACEGI_A_0_stacked_E + 8sei_0_BDFHJ_B_0_stacked_E_P10636",
+    "sequence": "LDFKDRVQSKI"
+  },
+  {
+    "core_id": "8spa_0_ABCDE_C_0_stacked_E_Q8NE35",
+    "sequence": "SFFQGITPVNGTMLF"
+  },
+  {
+    "core_id": "8ter_0_ADEHILMPQT_A_0_stacked_E_Q92734",
+    "sequence": "QYGIQYSASYSQQTGPQQLQQFQ"
+  },
+  {
+    "core_id": "8ttl_0_ABC_B_1_stacked_E_P10636",
+    "sequence": "TGSIDMVDSPQLATLADEVSAS"
+  },
+  {
+    "core_id": "8x5h_0_ABC_B_1_stacked_E_Q9NUM4",
+    "sequence": "FSKTVIGKARLNNI"
+  },
+  {
+    "core_id": "8yac_0_AFG_A_0_stacked_E_Q9VSR3",
+    "sequence": "QHQQQHQQHQQHQQQQQLHQHQ"
+  },
+  {
+    "core_id": "8z93_0_ABC_A_0_stacked_E_Q13546",
+    "sequence": "GIQIGAYNYMEI"
+  },
+  {
+    "core_id": "9c1u_0_ACEGIK_E_0_stacked_E + 9c1u_0_BDFHJL_H_0_stacked_E_Q8IG84",
+    "sequence": "LSNNNNNSNSN"
+  },
+  {
+    "core_id": "9d5c_0_ABC_A_0_stacked_E_P37840",
+    "sequence": "MKGLSKAKEGVVAAAEKTKQGVA"
+  },
+  {
+    "core_id": "9d5c_0_ABC_A_1_stacked_E_P37840",
+    "sequence": "VAEAAGKTKEGVLYVGSKTKEGV"
+  },
+  {
+    "core_id": "9d5c_0_ABC_A_2_stacked_E_P37840",
+    "sequence": "EQVTNVGGAVVT"
+  },
+  {
+    "core_id": "9dmz_0_ABCDE_E_0_stacked_E_Q7JIQ1",
+    "sequence": "NKPSKPKTNMKHVAGAAAAGAV"
+  },
+  {
+    "core_id": "9dmz_0_ABCDE_E_1_stacked_E_Q7JIQ1",
+    "sequence": "LGGYMLGSAMSRPLI"
+  },
+  {
+    "core_id": "9dmz_0_ABCDE_E_2_stacked_E_Q7JIQ1",
+    "sequence": "QHTVTTTTKGENFTETDIKMM"
+  },
+  {
+    "core_id": "9dmz_0_ABCDE_E_3_stacked_E_Q7JIQ1",
+    "sequence": "QMCITQYQRESQAYY"
+  },
+  {
+    "core_id": "9e8u_0_ACEGI_A_0_stacked_E_P37840",
+    "sequence": "VVAAAEKTKQGVAEA"
+  },
+  {
+    "core_id": "9fab_0_ABCDE_E_1_stacked_E",
+    "sequence": "SGTQPLDEADYFCQA"
+  },
+  {
+    "core_id": "9fh1_0_ACEGI_E_0_stacked_E_Q28280",
+    "sequence": "YEVHHQKLVGSNKGAIIGL"
+  },
+  {
+    "core_id": "9fnb_0_ABCD_B_0_stacked_E_Q9NUM4",
+    "sequence": "YVSYDVQKRTIYLNITNTLNITN"
+  },
+  {
+    "core_id": "9fnb_0_ABCD_B_1_stacked_E_Q9NUM4",
+    "sequence": "YTVPTVIAEEMSYMYDFCTLISI"
+  },
+  {
+    "core_id": "9fnb_0_ABCD_B_2_stacked_E_Q9NUM4",
+    "sequence": "IVLMMQVTVTTTYFGHSEQISQE"
+  },
+  {
+    "core_id": "9gkf_0_ABCDEFGHIJKLMNOPQRST_G_0_stacked_E_P09651",
+    "sequence": "YNNQSSNFGPMKGGNFGG"
+  },
+  {
+    "core_id": "9gzs_0_CFILOR_I_0_stacked_E_P10997",
+    "sequence": "FLVHSSNNFGAILSST"
+  },
+  {
+    "core_id": "9hgr_0_A_A_1_stacked_E_P37840",
+    "sequence": "GGAVVTGVTAVAQKTVEGAG"
+  },
+  {
+    "core_id": "9hr6_0_ABCDE_C_0_stacked_E_Q13546",
+    "sequence": "YTIYNSTGIQI"
+  },
+  {
+    "core_id": "9hx4_0_ACEGI_C_0_stacked_E_P06727",
+    "sequence": "SADQVATVMWDYFSQLSNNAK"
+  },
+  {
+    "core_id": "9iah_0_ABCDE_D_0_stacked_E_P02754",
+    "sequence": "VTQTMKGLDIQKVAGTWYSLAMA"
+  },
+  {
+    "core_id": "9iyd_0_ABC_A_0_stacked_E_P00441",
+    "sequence": "VTADKDAVADV"
+  },
+  {
+    "core_id": "9iyd_0_ABC_A_1_stacked_E_P00441",
+    "sequence": "ADDLGKGGNEESTKTGNAGSRL"
+  },
+  {
+    "core_id": "9iyj_0_ABC_C_0_stacked_E_P00441",
+    "sequence": "LGKGGNEESTKTGNAGSRLACGV"
+  },
+  {
+    "core_id": "9iyj_0_ABC_C_1_stacked_E_P00441",
+    "sequence": "SRLACGVIGIA"
+  },
+  {
+    "core_id": "9j0m_0_A_A_1_stacked_E_P00698",
+    "sequence": "GYSLGNWVCAAKFESNFNTQ"
+  },
+  {
+    "core_id": "9j0m_0_A_A_3_stacked_E_P00698",
+    "sequence": "CNDGRTPGSRNLCNIP"
+  },
+  {
+    "core_id": "9j0m_0_A_A_4_stacked_E_P00698",
+    "sequence": "CNIPCSALLSSDITASVNCA"
+  },
+  {
+    "core_id": "9j0m_0_A_A_5_stacked_E_P00698",
+    "sequence": "TASVNCAKKIVSDGNGMNA"
+  },
+  {
+    "core_id": "9jsu_0_ABCD_B_0_stacked_E_P40967",
+    "sequence": "GQYWQVLGGPVSGLSIGTGRAML"
+  },
+  {
+    "core_id": "9jsv_0_ABCD_C_0_stacked_E_P40967",
+    "sequence": "VYVWKTWGQYWQVLG"
+  },
+  {
+    "core_id": "9ka3_0_BDF_B_1_stacked_E_P37840",
+    "sequence": "VVTGVTAVAQKTVEGAGSIAAA"
+  },
+  {
+    "core_id": "9l2s_0_ABCGHI_B_0_stacked_E_A6YIY1",
+    "sequence": "VIEVGGAGQGGYGGLGS"
+  },
+  {
+    "core_id": "9li1_0_ABC_C_1_stacked_E_P00441",
+    "sequence": "QGIINFEQKESNGPVKVWGSIKG"
+  },
+  {
+    "core_id": "9liy_0_ABC_C_0_stacked_E",
+    "sequence": "LSGPVFGGGTKL"
+  },
+  {
+    "core_id": "9lj0_0_ABC_A_1_stacked_E",
+    "sequence": "KSGTSASLAISGLRSE"
+  },
+  {
+    "core_id": "9ljb_0_ABC_B_0_stacked_E + 9ljb_0_DEF_F_0_stacked_E",
+    "sequence": "QSITISCTGTSSDIG"
+  },
+  {
+    "core_id": "9ljb_0_ABC_B_1_stacked_E + 9ljb_0_DEF_F_1_stacked_E",
+    "sequence": "DYVSWYQQHPGKAPRLIVYDLF"
+  },
+  {
+    "core_id": "9ljc_0_ABC_A_0_stacked_E",
+    "sequence": "NFMLTQPHSVSESPGKTVTI"
+  },
+  {
+    "core_id": "9m6m_5_ABCDE_C_0_stacked_E_Q60855",
+    "sequence": "SGIQIGNHNYMDV"
+  },
+  {
+    "core_id": "9m6m_9_ABCDE_B_0_stacked_E_Q60855",
+    "sequence": "LIKYTIFNSSGIQI"
+  },
+  {
+    "core_id": "9mr8_0_C_C_0_stacked_E_P10636",
+    "sequence": "DNIKHVPGGGSVQIVYK"
+  },
+  {
+    "core_id": "9mr8_0_C_C_1_stacked_E_P10636",
+    "sequence": "CGSLGNIHHKPGGGQVEVKSEKL"
+  },
+  {
+    "core_id": "9nnn_0_ABCDE_A_0_stacked_E_P02766",
+    "sequence": "LMVKVLDAVRGSPAINVAVHV"
+  },
+  {
+    "core_id": "9nnn_0_ABCDE_A_1_stacked_E_P02766",
+    "sequence": "TTEEEFVEGIYKVEIDTKSYWKA"
+  },
+  {
+    "core_id": "9nnn_0_ABCDE_A_3_stacked_E_P02766",
+    "sequence": "TIAALLSPYSYSTTAVVT"
+  },
+  {
+    "core_id": "9non_0_ABCDE_B_0_stacked_E_O14960",
+    "sequence": "TCDRHGCGQYSAQRSQRPHQGV"
+  },
+  {
+    "core_id": "9non_0_ABCDE_B_1_stacked_E_O14960",
+    "sequence": "VLCSAGSTVYA"
+  },
+  {
+    "core_id": "9o8e_0_ABCDE_A_0_stacked_E_P10636",
+    "sequence": "AKAKTDHGAEIVY"
+  },
+  {
+    "core_id": "9o8e_0_ABCDE_A_1_stacked_E_P10636",
+    "sequence": "SPVVSGDTSPRHLSNVS"
+  },
+  {
+    "core_id": "9o8e_0_ABCDE_A_2_stacked_E_P10636",
+    "sequence": "PRHLSNVSSTGSIDMVDSPQLAT"
+  },
+  {
+    "core_id": "9o8e_0_ABCDE_A_3_stacked_E_P10636",
+    "sequence": "SASLAKQGLLEHHHHH"
+  },
+  {
+    "core_id": "9o8h_0_ADEHI_A_0_stacked_E_P10636",
+    "sequence": "NKKLDLSNVQSKCGSKDNIKHVP"
+  },
+  {
+    "core_id": "9o8h_0_ADEHI_A_1_stacked_E_P10636",
+    "sequence": "KDNIKHVPGGGSVQIVYKPVDLS"
+  },
+  {
+    "core_id": "9oyq_0_ACEGIKMOQ_C_0_stacked_E_Q8WYQ3",
+    "sequence": "QMATTAAGVAVGSAVGHVM"
+  },
+  {
+    "core_id": "9oys_0_BDF_F_0_stacked_E_Q8WYQ3",
+    "sequence": "TAAGVAVGLAVGHVMGSALT"
+  },
+  {
+    "core_id": "9oyt_0_ABCFGHJKL_H_0_stacked_E_Q9Y6H1",
+    "sequence": "ITAAGVAVGSAVGHTLG"
+  },
+  {
+    "core_id": "9pw3_0_ABCDE_A_0_stacked_E_P02647",
+    "sequence": "GRDYVSQFEGSALGKQLNLKL"
+  },
+  {
+    "core_id": "9qlu_0_ABCDE_C_0_stacked_E_Q7X8H9",
+    "sequence": "GVVTEEGDRVAGMISQHAAPG"
+  },
+  {
+    "core_id": "9qlu_0_ABCDE_C_1_stacked_E_Q7X8H9",
+    "sequence": "HAAPGCDAATIAG"
+  },
+  {
+    "core_id": "9qlu_0_ABCDE_C_2_stacked_E_Q7X8H9",
+    "sequence": "AATIAGMASALTDYGRCN"
+  },
+  {
+    "core_id": "9r2h_0_ABC_A_2_stacked_E_P10636",
+    "sequence": "RHLSNVSSTGSIDMVD"
+  },
+  {
+    "core_id": "9r4z_0_ACEGIM_E_0_stacked_E_P05367",
+    "sequence": "FSFIGEAFQGAGDMWRAYT"
+  },
+  {
+    "core_id": "9r4z_0_ACEGIM_E_2_stacked_E_P05367",
+    "sequence": "PGGVWAAEKISDARESFQEFF"
+  },
+  {
+    "core_id": "9rb7_0_ACEGI_C_1_stacked_E_P37840",
+    "sequence": "VTGVTAVAQKTVEGAGSIAAATG"
+  },
+  {
+    "core_id": "9rba_0_ABCDE_C_0_stacked_E_P37840",
+    "sequence": "GVATVAEKTKEQVTNVGGAVVTG"
+  },
+  {
+    "core_id": "9thp_0_ABDGIK_A_0_stacked_E_Q92804",
+    "sequence": "YGNPGSQGYGQA"
+  },
+  {
+    "core_id": "9thp_0_ABDGIK_A_1_stacked_E_Q92804",
+    "sequence": "QASQSYSGYGQ"
+  },
+  {
+    "core_id": "9tkf_0_ABCD_C_1_stacked_E_Q92804",
+    "sequence": "QSQSGYSQSYGGYENQKQ"
+  },
+  {
+    "core_id": "9tkg_0_ABCDE_A_0_stacked_E_Q92804",
+    "sequence": "YSTYGNPGSQGYGQASQSYSG"
+  },
+  {
+    "core_id": "9tkg_0_ABCDE_A_1_stacked_E_Q92804",
+    "sequence": "QASQSYSGYGQTTDSSYGQNYSG"
+  },
+  {
+    "core_id": "9tkj_0_ABCD_A_3_stacked_E_Q92804",
+    "sequence": "GYSQSYGGYENQKQSSYSQQPYN"
+  },
+  {
+    "core_id": "9tkk_0_ABCD_A_2_stacked_E_Q92804",
+    "sequence": "YSQQPYNNQGQQQNMESS"
+  },
+  {
+    "core_id": "9tkz_0_ABCD_A_3_stacked_E_Q92804",
+    "sequence": "SYGQSQSGYSQSY"
+  },
+  {
+    "core_id": "9tl2_0_ABCO_O_1_stacked_E_Q92804",
+    "sequence": "GQNYSGYSSYGQSQS"
+  },
+  {
+    "core_id": "9tl2_0_ABCO_O_2_stacked_E_Q92804",
+    "sequence": "SSYGQSQSGYSQSYGGYEN"
+  },
+  {
+    "core_id": "9u4l_0_ABCDEF_B_0_stacked_E_P02489",
+    "sequence": "EGLFEYDLLPFLSSTISPYYR"
+  },
+  {
+    "core_id": "9v4f_0_ABCDEFGHIJ_A_0_stacked_E_P02858",
+    "sequence": "VLVIPPGVPYWTYN"
+  },
+  {
+    "core_id": "9xbl_0_ABCDE_A_0_stacked_E_P05453",
+    "sequence": "QQYRQNGNQQQGNNRYQGYQAYN"
+  },
+  {
+    "core_id": "9xbl_0_ABCDE_A_1_stacked_E_P05453",
+    "sequence": "GYQAYNAQAQPAGGYYQNYQGYS"
+  },
+  {
+    "core_id": "9xbn_0_ABCDE_A_0_stacked_E_P05453",
+    "sequence": "YQQYSQNGNQQQ"
+  },
+  {
+    "core_id": "9xbo_0_ABCDE_A_0_stacked_E_P05453",
+    "sequence": "NRYQGYQAYNAQAQPAGGY"
+  },
+  {
+    "core_id": "9xbp_0_ABCDE_A_0_stacked_E_P05453",
+    "sequence": "QQFNPQGGRGNYKNFNY"
+  },
+  {
+    "core_id": "2E8D_1_core",
+    "sequence": "FLNCYVSGFHPSDIEVDL"
+  },
+  {
+    "core_id": "2NNT_1_core",
+    "sequence": "EWTEYKTADGKTFYYNNR"
+  },
+  {
+    "core_id": "7DAC_1_core1",
+    "sequence": "SGVQVGDNNYLTMQ "
+  },
+  {
+    "core_id": "7DAC_1_core2",
+    "sequence": "VNIYNCSGVQV"
+  },
+  {
+    "core_id": "8Q8L_1_core",
+    "sequence": "VEVKSEKLDFKDRVQSKI"
+  }
+]

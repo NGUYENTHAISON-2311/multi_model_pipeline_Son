@@ -30,8 +30,12 @@ cache/
 
 # Data files (add manually later)
 data/
-cores_07/
 benchmark_dataset/
+
+# cores_07: exclude everything except the two training files
+cores_07/*
+!cores_07/train_core_set_seed_20.json
+!cores_07/len_matching_filtered_disordered_regions_clustered.json
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
